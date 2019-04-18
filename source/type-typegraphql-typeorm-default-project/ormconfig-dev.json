@@ -1,0 +1,14 @@
+{
+  "name": "default",
+  "type": "mysql",
+  "host": "22222",
+  "port": 3306,
+  "username": "22222",
+  "password": "222222",
+  "database": "22222",
+  "synchronize": false,
+  "logging": true,
+  "entities": [
+    "src/entity/*.*"
+  ]
+}

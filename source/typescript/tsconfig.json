@@ -1,0 +1,10 @@
+{
+  "files": [
+    "src/main.ts"
+  ],
+  "compilerOptions": {
+    "removeComments": false,
+    "experimentalDecorators": true,
+    "sourceMap": true
+  }
+}
