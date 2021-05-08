@@ -19,6 +19,6 @@
     "express": "^4.16.4",
     "mysql": "^2.16.0",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.2.16"
+    "typeorm": "^0.2.25"
   }
 }
