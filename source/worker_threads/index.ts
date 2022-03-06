@@ -1,6 +1,8 @@
 // console.log('----', __filename)
 // console.log('----', __dirname)
-
+import path from 'path';
+const path2 = path.join(__dirname, 'good.js');
+console.log(path2)
 import {isMainThread, Worker, parentPort} from 'worker_threads'
 
 console.log('start--->', isMainThread)
