@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node ./index.ts",
+    "simple:start": "ts-node ./simpleTransform.ts",
     "tsm:start": "tsm ./index.ts"
   },
   "keywords": [],
