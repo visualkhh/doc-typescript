@@ -1,0 +1,17 @@
+{
+  "name": "typescript-language_service_plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./index.ts",
+    "tsm:start": "tsm ./index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.7.0",
+    "tsm": "^2.2.1"
+  }
+}
